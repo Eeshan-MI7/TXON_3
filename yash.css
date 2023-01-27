@@ -1,0 +1,45 @@
+body
+        {
+            margin: 50px;
+            background-color: rgb(48, 124, 134);
+        }
+        .head
+        {
+            font-size: 220;
+        }
+        #image
+        {
+            border-radius: 20%;
+        }
+        #ss1
+        {
+            width:40%;
+            margin:5%;
+           font-size: 29;
+           color: antiquewhite;
+            float:left;
+        }
+        #ss2
+        {
+            width:40%;
+            margin:5%;
+           font-size: 29;
+           color: antiquewhite;
+            float:left;
+        }
+        #dates
+        {
+            width: 100%;
+        }
+        h1
+        {
+            font-family: 'Gill Sans Extrabold', cursive;
+            font-size: 100;
+        }
+        #ss3
+        {
+            color:white;
+            font-size: 20;
+        }
+        
+          
